@@ -1,0 +1,13 @@
+This
+is
+test
+of
+Warsaw
+University
+of
+Technology
+file
+reader
+written
+in
+JAVA
